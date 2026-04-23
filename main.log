@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (MiKTeX 25.12) (format=lualatex 2026.4.5)  23 APR 2026 13:53
+This is LuaHBTeX, Version 1.24.0 (MiKTeX 25.12) (format=lualatex 2026.4.5)  23 APR 2026 14:05
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -413,10 +413,17 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:/Users/Georgia/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epstopdf-sys
 .cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) [1
+))
+<../../Desktop/Screenshot4.png, id=1, 234.8775pt x 234.27525pt>
+File: ../../Desktop/Screenshot4.png Graphic file (type png)
+<use ../../Desktop/Screenshot4.png>
+Package luatex.def Info: ../../Desktop/Screenshot4.png  used on input line 24.
+(luatex.def)             Requested size: 182.09486pt x 181.62935pt.
+ [1
 
-{C:/Users/Georgia/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (0.56644pt too wide) in paragraph at lines 54--55
+{C:/Users/Georgia/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<../../Deskto
+p/Screenshot4.png>]
+Overfull \hbox (0.56644pt too wide) in paragraph at lines 43--44
 \TU/TimesNewRoman(1)/m/n/12 κτρο-μη-χα-νικά μι-κρό-φωνα. 
 Ανα-δει-κνύ-ο-νται τρεις βα-σι-κοί μη-χα-νι-σ
 μοί: τη θερ-μο-ε-λα-στική κάμψη,
@@ -425,19 +432,19 @@ Overfull \hbox (0.56644pt too wide) in paragraph at lines 54--55
 [1
 
 ]
-<../../Desktop/Screenshot_2.png, id=11, 205.9695pt x 189.1065pt>
+<../../Desktop/Screenshot_2.png, id=13, 205.9695pt x 189.1065pt>
 File: ../../Desktop/Screenshot_2.png Graphic file (type png)
 <use ../../Desktop/Screenshot_2.png>
-Package luatex.def Info: ../../Desktop/Screenshot_2.png  used on input line 72.
+Package luatex.def Info: ../../Desktop/Screenshot_2.png  used on input line 61.
 
 (luatex.def)             Requested size: 318.66948pt x 292.57822pt.
  [2
 
 ] [3<../../Desktop/Screenshot_2.png>]
-<../../Desktop/Screenshot_1.png, id=19, 283.65974pt x 202.95825pt>
+<../../Desktop/Screenshot_1.png, id=21, 283.65974pt x 202.95825pt>
 File: ../../Desktop/Screenshot_1.png Graphic file (type png)
 <use ../../Desktop/Screenshot_1.png>
-Package luatex.def Info: ../../Desktop/Screenshot_1.png  used on input line 87.
+Package luatex.def Info: ../../Desktop/Screenshot_1.png  used on input line 76.
 
 (luatex.def)             Requested size: 182.09486pt x 130.28923pt.
  [4<../../Desktop/Screenshot_1.png>] [5
@@ -445,7 +452,7 @@ Package luatex.def Info: ../../Desktop/Screenshot_1.png  used on input line 87.
 ] [6
 
 ] [7]
-Overfull \hbox (0.27151pt too wide) in paragraph at lines 127--128
+Overfull \hbox (0.27151pt too wide) in paragraph at lines 116--117
 \TU/TimesNewRoman(1)/m/n/12 μιουρ-γούν ανα-πό-φευ-κτα συ
 μ-βι-βα-σμούς ως προς την από-δοση του μι-κρ
 ο-φώ-νου. Για πα-ρά-δειγμα,
@@ -454,7 +461,7 @@ Overfull \hbox (0.27151pt too wide) in paragraph at lines 127--128
 [8
 
 ] [9]
-Overfull \hbox (4.80373pt too wide) in paragraph at lines 143--144
+Overfull \hbox (4.80373pt too wide) in paragraph at lines 132--133
 \TU/TimesNewRoman(1)/m/n/12 Signals into MEMS Microphones το-πο-θε-τε
 ί-ται στον ίδιο ερευ-νη-τικό χώρο με το Light Comm
 ands
@@ -463,7 +470,7 @@ ands
 [10
 
 ] [11]
-Overfull \hbox (13.04495pt too wide) in paragraph at lines 170--172
+Overfull \hbox (13.04495pt too wide) in paragraph at lines 159--161
 []\TU/TimesNewRoman(1)/m/n/12 Near-ultrasound inaudible trojan (NUIT): exploitin
 g your speaker to attack your microphone:
  []
@@ -478,20 +485,20 @@ L3 programming layer <2025-12-24>
 )
 
 Here is how much of LuaTeX's memory you used:
- 5377 strings out of 476081
+ 5386 strings out of 476081
  100000,662416 words of node,token memory allocated
  411 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 49 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:87,3:58,4:23,5:205,6:18,7:6667,9:111,10:17,11:860
- 27772 multiletter control sequences out of 65536+600000
- 42 fonts using 33276799 bytes
+   avail lists: 2:84,3:58,4:23,5:205,6:12,7:6667,9:111,10:17,11:860
+ 27778 multiletter control sequences out of 65536+600000
+ 41 fonts using 31931031 bytes
  73i,7n,92p,2239b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/WINDOWS/Fonts/timesi.ttf><C:/WINDOWS/Fonts/timesbd.ttf><C:/WINDOWS/Fonts/tim
-es.ttf>
-Output written on main.pdf (13 pages, 199741 bytes).
+<C:/WINDOWS/Fonts/timesbd.ttf><C:/WINDOWS/Fonts/times.ttf><C:/WINDOWS/Fonts/time
+si.ttf>
+Output written on main.pdf (13 pages, 396118 bytes).
 
-PDF statistics: 70 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 72 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 1048576)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
